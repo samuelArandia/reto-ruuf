@@ -1,2 +1,2 @@
-#Prueba 
+# Prueba 
 ## ¿Cuántos paneles caben?
